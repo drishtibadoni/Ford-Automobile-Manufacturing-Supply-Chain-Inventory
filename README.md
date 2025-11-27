@@ -17,7 +17,7 @@
 
 # Automobile Supply Chain Management (Ford)
 
-A comprehensive database design for managing an end-to-end **Automobile Supply Chain**, from sourcing raw materials to customer delivery. This project models procurement, production, inventory, logistics, and sales operations using relational EER diagrams and structured entity relationships.
+A comprehensive database design for managing an end-to-end **Automobile Supply Chain**, from sourcing raw materials to customer delivery. This project models procurement, production, inventory, logistics, and sales operations using relational ER diagrams and structured entity relationships.
 
 ---
 
