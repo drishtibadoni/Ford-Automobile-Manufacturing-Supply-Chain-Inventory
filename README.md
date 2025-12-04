@@ -20,6 +20,8 @@
 A comprehensive database design for managing an end-to-end **Automobile Supply Chain**, from sourcing raw materials to customer delivery. This project models procurement, production, inventory, logistics, and sales operations using relational ER diagrams and structured entity relationships.
 
 ---
+<img width="1224" height="634" alt="image" src="https://github.com/user-attachments/assets/cb6a102b-8d75-472c-a9f1-d86dfa70c3fb" />
+
 
 ## Project Overview
 
